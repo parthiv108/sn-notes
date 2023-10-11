@@ -1,0 +1,1 @@
+refGR = new global.GlideRecordUtil().getGR('x_nswhs_ereferral_referral', refId);
